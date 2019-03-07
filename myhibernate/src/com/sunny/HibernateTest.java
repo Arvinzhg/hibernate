@@ -26,4 +26,10 @@ public class HibernateTest {
         session.close();//释放资源
 
     }
+
+    public void testFindAll(){
+
+
+    }
+
 }
